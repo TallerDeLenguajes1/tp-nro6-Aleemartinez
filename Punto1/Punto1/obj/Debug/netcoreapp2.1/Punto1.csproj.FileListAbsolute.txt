@@ -1,0 +1,11 @@
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro6-Aleemartinez\Punto1\Punto1\bin\Debug\netcoreapp2.1\Punto1.deps.json
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro6-Aleemartinez\Punto1\Punto1\bin\Debug\netcoreapp2.1\Punto1.runtimeconfig.json
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro6-Aleemartinez\Punto1\Punto1\bin\Debug\netcoreapp2.1\Punto1.runtimeconfig.dev.json
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro6-Aleemartinez\Punto1\Punto1\bin\Debug\netcoreapp2.1\Punto1.dll
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro6-Aleemartinez\Punto1\Punto1\bin\Debug\netcoreapp2.1\Punto1.pdb
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro6-Aleemartinez\Punto1\Punto1\obj\Debug\netcoreapp2.1\Punto1.csprojAssemblyReference.cache
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro6-Aleemartinez\Punto1\Punto1\obj\Debug\netcoreapp2.1\Punto1.csproj.CoreCompileInputs.cache
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro6-Aleemartinez\Punto1\Punto1\obj\Debug\netcoreapp2.1\Punto1.AssemblyInfoInputs.cache
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro6-Aleemartinez\Punto1\Punto1\obj\Debug\netcoreapp2.1\Punto1.AssemblyInfo.cs
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro6-Aleemartinez\Punto1\Punto1\obj\Debug\netcoreapp2.1\Punto1.dll
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro6-Aleemartinez\Punto1\Punto1\obj\Debug\netcoreapp2.1\Punto1.pdb
